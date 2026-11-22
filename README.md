@@ -2,6 +2,8 @@
 
 Vision is a simple voice assistant for **macOS**, written in Python. Clap twice (or say **"Hey Vision"**), and an animated holographic interface opens. It stays blue while idle and turns **red while Vision is speaking**. You can talk to it in English, Hindi or Hinglish.
 
+<img width="1351" height="687" alt="image" src="https://github.com/user-attachments/assets/86a722c6-a4a0-4492-975f-895b05139e6c" />
+
 ## Features
 
 - **Activation:** double clap, or the wake phrase "Hey Vision"
